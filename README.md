@@ -1,2 +1,2 @@
 # PowerShell-Server-Manager
- A little Server MAnager in PowerShell for Active Directory
+ A little Server Manager in PowerShell for Active Directory
